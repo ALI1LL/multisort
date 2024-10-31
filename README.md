@@ -83,5 +83,5 @@ oferecem uma boa variedade em termos de eficiência, dependendo do tamanho do ve
 uma abordagem interessante para demonstrar.
 
 ## Alunos
-- **Ali**
+- **Ali Filho**
 - **Lwara**
